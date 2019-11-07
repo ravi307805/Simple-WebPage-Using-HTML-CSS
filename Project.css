@@ -1,0 +1,77 @@
+/*navigation css */
+.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover{
+  background-color: #777;
+}
+
+ h2{
+	text-align: center;
+}
+
+.padd	{
+	padding: 10px;
+}
+
+
+.gpara img{
+	float: right;
+	clear: both;
+	margin-left: 0px;
+	margin-right: 50px;
+	height: 200px;
+	width: 300px;
+}
+.gpara{
+	margin-left: 50px;
+
+}
+.bpara img{
+	float: left;
+	
+	
+	height: 200px;
+	width: 300px;
+	
+}
+.bpara{
+	margin-right: 50px;
+}
+.image{
+	
+	display: inline-block;
+	margin-left: 30px;
+	
+}
+
+.button{
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	padding-left: 0px;
+	
+
+}
+.select{
+	color: white;
+	background-color: #333;
+	border-color: #333;
+	padding: 14px
+
+}
+
+.select:hover{
+  background-color: #777;
+}
